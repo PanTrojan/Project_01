@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 05038e2a933f45b45afa1c9364d90c74
+timeCreated: 1524763177
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LikeCockatoos
+  fontNames:
+  - LikeCockatoos
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

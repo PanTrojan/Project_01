@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<scenes>
+	<scene name="TestScene_01">
+		<options>
+
+			<option>Continue</option>
+			<option>Save</option>
+			<option>Load</option>
+			<option>Options</option>
+			<option>Exit</option>
+			
+			<option>Audio</option>
+			<option>Control</option>
+			<option>Video</option>
+			<option>Language</option>
+			<option>Back</option>
+			
+			<option>Master</option>
+			<option>Music</option>
+			<option>Effects</option>
+			<option>Back</option>
+			
+			<option>Motion Blur</option>
+			<option>Back</option>
+			
+			<option>Quest</option>
+			<option>The forest</option>
+			<option>Mushrooms</option>
+			
+			<option>Description</option>
+			<option>The forest - Find a 6 mushrooms and bla bla  bla or ba bla bla</option>
+			<option>abeufauabkhschbakbkasbhavjcxckwdaskjcbaxcukvjbksebkcacxzcas</option>
+			
+			<option>Inventory</option>
+			<option>Inventory</option>
+			<option>Mushroom - adasd wadasd dwadasd a wadsadwad asdawd dawdwada dasd adwadsadafdas dwad sadwad asd</option>
+			<option>Back</option>
+			
+			<option>Character Stats</option>
+			<option>CADWAD</option>
+			<option>XDE</option>
+			<option>AWDAD</option>
+			<option>Alchemy</option>
+			<option>Level</option>
+			
+			<option>Antialiasing</option>
+			<option>Bloom</option>
+			
+			<option>SAVED</option>
+			<option>Load...</option>
+			
+			<option>The forest</option>
+			<option>Find a 6 mushrooms</option>
+			
+			<option>Mushrooms</option>
+			<option>Eat a 6 mushrooms</option>
+			
+		</options>
+	</scene>
+</scenes>
